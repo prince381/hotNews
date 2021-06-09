@@ -34,6 +34,17 @@
     font-display: swap;
 }
 
+::-webkit-scrollbar {
+    width: .5rem;
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--unique);
+    box-shadow: -5px 2px 5px rgba(0,0,0,.2) inset;
+    border-radius: 2rem;
+}
+
 body {
     font-family: 'Source Sans Pro', Helvetica, sans-serif;
     width: 100vw;
