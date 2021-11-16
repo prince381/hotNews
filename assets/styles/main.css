@@ -97,7 +97,7 @@ ul {
 }
 
 .category-block {
-    margin-bottom: 12rem;
+    margin-bottom: 8rem;
 }
 
 .category-block:last-of-type {
@@ -237,7 +237,7 @@ ul {
 
 @media (min-width: 1250px) {
     .category-block {
-        margin-bottom: 0;
+        margin-bottom: 10;
     }
 
     .grid-items {
