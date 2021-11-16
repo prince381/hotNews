@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/health", (function(a){return {data:[{}],fetch:{"0":{_error:{message:"request to https:\u002F\u002Fnewsapi.org\u002Fv2\u002Ftop-headlines?country=us&category=health&apiKey=6de1cb3976964889989a42bfb2eef149 failed, reason: read ECONNRESET",type:"system",errno:a,code:a,statusCode:500}}},mutations:void 0}}("ECONNRESET")));
